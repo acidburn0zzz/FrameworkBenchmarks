@@ -6,7 +6,7 @@
     "express": "5.2.1",
     "fast-json-stringify": "^6.3.0",
     "lru-cache": "^11.2.6",
-    "mongoose": "9.2.4",
+    "mongoose": "9.7.2",
     "mysql2": "3.18.2",
     "pg": "8.19.0",
     "pg-promise": "12.6.1",
