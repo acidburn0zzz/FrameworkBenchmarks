@@ -24,7 +24,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jackson.version>2.13.0</jackson.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <wicket.version>9.19.0</wicket.version>
+        <wicket.version>9.23.0</wicket.version>
     </properties>
     <dependencies>
         <!-- WICKET DEPENDENCIES -->
