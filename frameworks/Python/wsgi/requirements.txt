@@ -1,4 +1,4 @@
-ujson==1.35
-gunicorn==19.9.0
+ujson==5.13.0
+gunicorn==22.0.0
 meinheld==1.0.2
 greenlet==0.4.14
