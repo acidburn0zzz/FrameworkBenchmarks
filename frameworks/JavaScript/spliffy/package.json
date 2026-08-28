@@ -6,7 +6,7 @@
     "@srfnstack/spliffy": "1.4.0",
     "html-escaper": "3.0.3",
     "mongodb": "^4.17.0",
-    "mysql2": "^3.9.8",
+    "mysql2": "^3.24.2",
     "node-cache": "5.1.2",
     "postgres": "3.4.4",
     "slow-json-stringify": "^2.0.1"
