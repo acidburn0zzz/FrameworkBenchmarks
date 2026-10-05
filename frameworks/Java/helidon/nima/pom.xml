@@ -39,7 +39,7 @@
         <vertx-pg-client.version>4.5.3</vertx-pg-client.version>
         <ongres-scram.version>2.1</ongres-scram.version>
         <jsoniter.version>0.9.23</jsoniter.version>
-        <jte.version>3.1.15</jte.version>
+        <jte.version>3.1.16</jte.version>
     </properties>
 
     <dependencies>
@@ -82,7 +82,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.6.1</version>
+            <version>42.7.12</version>
         </dependency>
         <dependency>
             <groupId>gg.jte</groupId>

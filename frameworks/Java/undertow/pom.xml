@@ -14,12 +14,12 @@
     <maven.compiler.release>18</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <hikaricp.version>5.0.1</hikaricp.version>
-    <jackson.version>2.16.0</jackson.version>
+    <jackson.version>2.18.11</jackson.version>
     <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
     <maven-dependency-plugin.version>3.3.0</maven-dependency-plugin.version>
     <maven-jar-plugin.version>3.2.2</maven-jar-plugin.version>
     <mustache.version>0.9.10</mustache.version>
-    <postgresql.version>42.7.2</postgresql.version>
+    <postgresql.version>42.7.12</postgresql.version>
     <undertow.version>2.3.21.Final</undertow.version>
   </properties>
 
