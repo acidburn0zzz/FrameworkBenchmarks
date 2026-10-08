@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <log4j.version>2.17.1</log4j.version>
+        <log4j.version>2.25.5</log4j.version>
         <smartservlet.version>3.1-SNAPSHOT</smartservlet.version>
         <hikaricp.version>5.0.0</hikaricp.version>
         <jsoniter.version>0.9.23</jsoniter.version>
@@ -67,7 +67,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.7.2</version>
+            <version>42.7.12</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.velocity/velocity -->
         <dependency>
