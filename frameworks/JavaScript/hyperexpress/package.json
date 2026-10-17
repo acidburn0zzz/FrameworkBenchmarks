@@ -10,7 +10,7 @@
   "dependencies": {
     "hyper-express": "^6.17.3",
     "lru-cache": "^10.0.1",
-    "mariadb": "^3.2.0",
+    "mariadb": "^3.2.5",
     "postgres": "^3.3.5"
   },
   "type": "module"
